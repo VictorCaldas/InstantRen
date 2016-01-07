@@ -13,7 +13,7 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 
 
-public class Splash extends Activity {
+public class Splash extends AppCompatActivity {
 
 
     @Override
