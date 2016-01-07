@@ -1,6 +1,6 @@
 # InstantRen
 
-App inspired by the more epic phrase Kylo ren in Star Wars VI<br>
+App inspired by the more epic phrase Kylo Ren in Star Wars VI<br>
 You can now hear the strength of awakening in a click.
 <br>
 <br>
