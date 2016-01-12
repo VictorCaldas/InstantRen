@@ -19,10 +19,6 @@ public class MainActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        MediaPlayer mPlayer = MediaPlayer.create(this, R.raw.will);
-        mPlayer.start();
-
-
     }
 
     @Override
